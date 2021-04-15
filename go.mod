@@ -7,20 +7,20 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.7.0
 	github.com/Azure/go-autorest/autorest/adal v0.8.3 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20180315120708-ccb8e960c48f
-	github.com/aws/aws-sdk-go v1.15.57
+	github.com/aws/aws-sdk-go v1.37.3
 	github.com/codegangsta/negroni v1.0.0 // indirect
 	github.com/coreos/go-semver v0.2.0
 	github.com/dchest/authcookie v0.0.0-20120917135355-fbdef6e99866
 	github.com/dchest/uniuri v0.0.0-20160212164326-8902c56451e9
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/drone/drone-go v1.3.2-0.20200826185551-24929e4d2cfc
+	github.com/drone/drone-go v1.4.1-0.20201109202657-b9e58bbbcf27
 	github.com/drone/drone-runtime v1.1.1-0.20200623162453-61e33e2cab5d
-	github.com/drone/drone-ui v0.0.0-20200701170131-2b91a041998b
+	github.com/drone/drone-ui v0.0.0-20210331233327-772f24b7f519
 	github.com/drone/drone-yaml v1.2.4-0.20200326192514-6f4d6dfb39e4
 	github.com/drone/envsubst v1.0.3-0.20200709231038-aa43e1c1a629
 	github.com/drone/go-license v1.0.2
 	github.com/drone/go-login v1.0.4-0.20190311170324-2a4df4f242a2
-	github.com/drone/go-scm v1.7.1-0.20200621203823-3731ec1f1136
+	github.com/drone/go-scm v1.8.0
 	github.com/drone/signal v1.0.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/go-chi/chi v3.3.3+incompatible
@@ -29,7 +29,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.0
 	github.com/golang/mock v1.3.1
 	github.com/google/go-cmp v0.4.0
-	github.com/google/go-jsonnet v0.12.1
+	github.com/google/go-jsonnet v0.16.0
 	github.com/google/wire v0.2.1
 	github.com/gorhill/cronexpr v0.0.0-20140423231348-a557574d6c02 // indirect
 	github.com/gosimple/slug v1.3.0
@@ -62,7 +62,8 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/unrolled/secure v0.0.0-20181022170031-4b6b7cf51606
-	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
+	go.starlark.net v0.0.0-20201118183435-e55f603d8c79
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	gopkg.in/ini.v1 v1.57.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8
